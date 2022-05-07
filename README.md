@@ -10,3 +10,5 @@
 8. git checkout -b nombre de la rama  // Crea una nueva branch.
 9. git merge nombre-de-la-rama // Une dos branches.
 10. git branch -d nombre-de-la-rama // Elimina una branch.
+11. git push // Envía los cambios a la rama remota.
+12. git commit -am // 
