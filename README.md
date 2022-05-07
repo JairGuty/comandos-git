@@ -7,5 +7,10 @@
 5- git checkout -- . // Deshace los cambios de los archivos y se pueder recuperar el archivo.
 6- git log // Muestra los cambios que se han realizado.
 7- git commit --amend // Edita el mensaje del commit anterior.( presionar tecla I, para salir Esc, :Wq!)
+<<<<<<< HEAD
 8- git checkout -b rama-heroes  // Crea una nueva branch.
 9- git merge nombre-rama // Une dos branches.
+=======
+8- git checkout -b nombre_de_rama  // Crea una nueva branch.
+9- git checkout master // Cambia a la branch.
+>>>>>>> rama-heroe
