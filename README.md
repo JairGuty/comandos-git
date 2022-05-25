@@ -12,3 +12,4 @@
 10. git branch -d nombre-de-la-rama // Elimina una branch.
 11. git push // Envía los cambios a la rama remota.
 12. git commit -am // 
+13. git pull
